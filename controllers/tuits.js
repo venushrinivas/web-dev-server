@@ -86,7 +86,6 @@ export default [
         "handle_name": "Scott Manley",
         "verified": true,
         "user_name": "DJSnM",
-        "postedOn": "2020-12-10",
         "time": "1 day",
         "title": "JavaScript is programming language that can run on browsers as well as desktops",
         "tuit": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
